@@ -33,6 +33,8 @@ import org.assertj.core.test.Jedi;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
+//CS304 (manually written) Issue link: https://github.com/joel-costigliola/assertj-core/issues/1645
+
 public class AtomicReferenceArrayAssert_usingComparatorForType_Test extends AtomicReferenceArrayAssertBaseTest {
 
   private ObjectArrays arraysBefore;

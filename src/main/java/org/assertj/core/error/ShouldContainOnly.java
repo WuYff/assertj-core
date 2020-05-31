@@ -30,6 +30,7 @@ import org.assertj.core.internal.StandardComparisonStrategy;
  * @author Joel Costigliola
  */
 public class ShouldContainOnly extends BasicErrorMessageFactory {
+  //CS304 Issue link: https://github.com/joel-costigliola/assertj-core/issues/1645
 
   /**
    * Creates a new <code>{@link ShouldContainOnly}</code>.

@@ -13,6 +13,7 @@
 package org.assertj.core.error;
 
 import java.util.Map;
+//CS304 Issue link: https://github.com/joel-costigliola/assertj-core/issues/1645
 
 /**
  * Generates a description for the type of a group of elements. The description is used in the error message.

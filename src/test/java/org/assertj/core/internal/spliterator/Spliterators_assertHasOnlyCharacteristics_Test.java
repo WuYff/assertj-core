@@ -34,6 +34,8 @@ import org.assertj.core.test.StringSpliterator;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
+//CS304 (manually written) Issue link: https://github.com/joel-costigliola/assertj-core/issues/1645
+
 /**
  * Tests for <code>{@link SpliteratorAssert#hasOnlyCharacteristics(int...)}</code>.
  *

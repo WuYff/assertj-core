@@ -23,6 +23,8 @@ import static org.assertj.core.test.Maps.mapOf;
 import static org.assertj.core.util.Lists.list;
 import static org.assertj.core.util.Sets.newLinkedHashSet;
 
+//CS304 (manually written) Issue link: https://github.com/joel-costigliola/assertj-core/issues/1645
+
 class GroupTypeDescription_getGroupTypeDescription_Test {
 
   @ParameterizedTest

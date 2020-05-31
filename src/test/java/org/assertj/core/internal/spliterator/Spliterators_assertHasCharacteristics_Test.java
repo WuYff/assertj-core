@@ -73,6 +73,7 @@ public class Spliterators_assertHasCharacteristics_Test extends SpliteratorsBase
     spliterators.assertHasCharacteristics(INFO, actual, DISTINCT);
   }
 
+  //CS304 (manually written) Issue link: https://github.com/joel-costigliola/assertj-core/issues/1645
   @Test
   public void should_fail_if_spliterator_does_not_have_characteristic() {
     // GIVEN

@@ -30,6 +30,7 @@ import static org.assertj.core.util.Strings.escapePercent;
  * @author Joel Costigliola
  */
 public class ShouldContain extends BasicErrorMessageFactory {
+  //CS304 Issue link: https://github.com/joel-costigliola/assertj-core/issues/1645
 
   /**
    * Creates a new <code>{@link ShouldContain}</code>.
